@@ -1,0 +1,23 @@
+h = 98
+w = 305
+
+input1.png
+x = 248px
+Pseudo { y = 226 px }
+VALIDER { y = 334 px }
+RETOUR { y = 461 px }
+
+input2.png
+Pseudo1 { x = 59, y = 226 px }
+Pseudo2 { x = 435, y = 226 px }
+x = 248px
+VALIDER { y = 356 px }
+RETOUR { y = 475 px }
+
+
+
+menu.png
+x = 248px
+JCP { y = 206 px }
+JCJ { y = 334 px }
+QUITTER { y = 461 px }
